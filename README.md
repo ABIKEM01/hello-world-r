@@ -6,7 +6,7 @@ The program prints the classic "Hello World" message, then greets the world in E
 
 My purpose for writing this was to confirm that my R development environment works from start to finish and to get comfortable with the workflow of writing code, documenting it, recording a demo and publishing it to GitHub.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/rX6-H-ptfnQ)
 
 # Development Environment
 
